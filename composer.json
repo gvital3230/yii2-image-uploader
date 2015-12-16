@@ -1,6 +1,6 @@
 {
   "name": "demi/image",
-  "description": "Yii2 behavior for upload image to model",
+  "description": "Yii2 behavior for upload image to model.",
   "keywords": [
     "yii2",
     "image",
